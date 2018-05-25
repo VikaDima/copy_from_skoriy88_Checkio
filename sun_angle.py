@@ -12,8 +12,5 @@ def sun_angle(time):
         res = minutes * 0.25 - 90
         print(res)
         return res
-
-
-
-
+    
 sun_angle(tm)
